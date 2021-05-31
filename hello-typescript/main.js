@@ -20,4 +20,4 @@ var Matematica = /** @class */ (function () {
     return Matematica;
 }());
 var n1 = 'string';
-n1 = 4;
+n1 = 5;
